@@ -2,7 +2,7 @@ title: "Zuah Han"
 description: "Data Visualization | Portfolio + Daily Study Notes"
 url: "https://zuahh.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "plum"
 paginate: 5
 plugins:
   - jekyll-include-cache
